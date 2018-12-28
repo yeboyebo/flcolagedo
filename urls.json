@@ -1,3 +1,22 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/models/root",
+            "value": {
+                "flcolagedo": {
+                    "gd_camposplantilla": null,
+                    "gd_conexiones": null,
+                    "gd_config": null,
+                    "gd_documentos": null,
+                    "gd_documentostabla": null,
+                    "gd_documentostablamod": null,
+                    "gd_objetosdoc": null,
+                    "gd_secuencias": null,
+                    "gd_tiposdoc": null,
+                    "gd_versionesdoc": null
+                }
+            }
+        }
+    ]
 }

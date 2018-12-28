@@ -2,7 +2,92 @@
     "modifications": {
         "patchScript": [],
         "deleteFile": [],
-        "addFile": [],
+        "addFile": [
+            {
+                "name": "model_flcolagedo__gd_camposplantilla.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_camposplantilla_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_conexiones.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_conexiones_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_config.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_config_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_documentos.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_documentos_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_documentostabla.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_documentostabla_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_documentostablamod.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_documentostablamod_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_objetosdoc.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_objetosdoc_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_secuencias.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_secuencias_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_tiposdoc.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_tiposdoc_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_versionesdoc.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__gd_versionesdoc_def.py",
+                "path": "models/flcolagedo/"
+            },
+            {
+                "name": "model_flcolagedo__flcolagedo_def.py",
+                "path": "models/flcolagedo/"
+            }
+        ],
         "replaceFile": [
             {
                 "name": "dependencias.json",
