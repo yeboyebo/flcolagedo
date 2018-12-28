@@ -17,7 +17,7 @@ from YBLEGACY.constantes import *
 class flcolagedo(interna):
 
     def flcolagedo_getDesc(self):
-        return None
+        return "descripcion"
 
     def __init__(self, context=None):
         super().__init__(context)
