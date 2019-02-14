@@ -9,13 +9,15 @@
                     "gd_conexiones": null,
                     "gd_config": null,
                     "gd_documentos": {
-                        "formRecord": "gd_masterdocumentos"
+                        "formRecord": "gd_documentos",
+                        "form": "gd_masterdocumentos"
                     },
                     "gd_documentostabla": null,
                     "gd_objetosdoc": null,
                     "gd_secuencias": null,
                     "gd_tiposdoc": {
-                        "formRecord": "gd_mastertiposdoc"
+                        "formRecord": "gd_tiposdoc",
+                        "form": "gd_mastertiposdoc"
                     },
                     "gd_versionesdoc": null
                 }
