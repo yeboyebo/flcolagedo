@@ -86,6 +86,18 @@
             {
                 "name": "model_flcolagedo__flcolagedo_def.py",
                 "path": "models/flcolagedo/"
+            },
+            {
+                "name": "app_gesdoc____init__.py",
+                "path": "apps/gesdoc/"
+            },
+            {
+                "name": "app_gesdoc__menu_gesdoc.json",
+                "path": "apps/gesdoc/templates/gesdoc/"
+            },
+            {
+                "name": "app_gesdoc__views_gesdoc.py",
+                "path": "apps/gesdoc/viewset/"
             }
         ],
         "replaceFile": [
